@@ -2,8 +2,8 @@
 <p>Contains a basic redux-ready react application for personal use</p>
 <h2>Packages to install</h2>
 <ul>
-  <li>react-redux</li>
-  <li>redux</li>
+  <li>react-redux <code>npm install react-redux --save</code></li>
+  <li>redux <code>npm install redux --save</code></li>
 </ul>
 <h2>Imports</h2>
 <ul>
