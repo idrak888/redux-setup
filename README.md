@@ -1,1 +1,1 @@
-Redux Boilerplate and basic usage
+<h1>Redux Boilerplate</h1>
